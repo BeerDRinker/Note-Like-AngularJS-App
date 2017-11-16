@@ -1,0 +1,25 @@
+[{
+    "name": "Yoshi",
+    "belt": "green",
+    "rate": 50,
+    "available": true,
+    "thumb": "../content/img/ninja.png"
+}, {
+    "name": "Crystal",
+    "belt": "yellow",
+    "rate": 30,
+    "available": true,
+    "thumb": "../content/img/ninja.png"
+}, {
+    "name": "Ryu",
+    "belt": "orange",
+    "rate": 10,
+    "available": true,
+    "thumb": "../content/img/ninja.png"
+}, {
+    "name": "Shaun",
+    "belt": "black",
+    "rate": 1000,
+    "available": true,
+    "thumb": "../content/img/ninja.png"
+}]
