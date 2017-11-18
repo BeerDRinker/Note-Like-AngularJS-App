@@ -10,14 +10,13 @@ Note-like App  [Node.js](https://nodejs.org/) v4+ to run.
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ cd NoteLikeApp
+$ cd Note-Like-AngularJS-App
 $ npm install 
 ```
 
 ### To run app please follow next steps:
 
 ```sh
-$ cd NoteLikeApp
 $ node server
 ```
 
@@ -31,4 +30,4 @@ localhost:3000
 * Creating simple custom directives
 * Basic Angularjs animation
 * Angularjs form validation
-And many more :)
+* And many more :)
